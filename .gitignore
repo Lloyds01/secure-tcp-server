@@ -136,9 +136,14 @@ env/
 venv/
 ENV/
 env.bak/
-venv.bak/
+.venv.bak/
+.key.pem
+.cert.pem
+.config.ini 
+
 key.pem
 cert.pem
+config.ini 
 
 # Spyder project settings
 .spyderproject
